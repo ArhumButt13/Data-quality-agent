@@ -1,0 +1,16 @@
+supplier_id,name,country,vat_id,email,phone
+S001,ACME GmbH,DE,DE123456789,info@acme.de,+49 30 123456
+S002,Beta Logistics,DE,DE987654321,contact@beta-log.de,+49 40 555123
+S003,ACME GmbH,DE,DE123456789,info@acme.de,+49 30 123456
+S004,Nordic Parts AB,SE,SE556677889901,,+46 8 123456
+S005,Gamma Tools,,DE111222333,sales@gamma.de,+49 89 777888
+S006,Delta Supplies,DE,12345,orders@delta.de,+49 69 444555
+S007,Epsilon SARL,FR,FR12345678901,hello@epsilon.fr,+33 1 2345 6789
+S008,epsilon sarl,FR,FR12345678901,hello@epsilon.fr,+33 1 2345 6789
+S009,Zeta Metals,PL,PL1234567890,zeta@metals,+48 22 111222
+S010,Eta Packaging,NL,NL123456789B01,info@eta.nl,
+S011,Theta Chemicals,IT,IT12345678901,info@theta.it,+39 02 333444
+S012,Iota Foods,ES,ESX1234567X,info@iota.es,+34 91 555666
+S013,Kappa Textiles,PK,,kappa@textiles.pk,+92 42 1234567
+S014,Lambda Energy,DE,DE555666777,lambda@energy.de,+49 30 999000
+S015,Mu Electronics,AT,ATU12345678,contact@mu.at,+43 1 222333
